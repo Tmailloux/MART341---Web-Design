@@ -1,0 +1,13 @@
+What is a directory, and what is its relationship to files?
+
+A directory is a grouping of files in hiererchal structure in order to organize files, manage resources, and maintain workflow.
+
+How are VCS useful?
+
+VCS allows the creator of a directory to store, follow changes, and even return to past versions of their file directory.
+
+Do you have a favorite artistic medium? Why is it your favorite?
+
+I would say in general my favorit artistic medium is film, although I'll always have a soft spot for anything related to the internet.
+I enjoy films accessibilty when it comes to large audiences and I think the internet does something similar, but in regards to all kind of art.
+Although, while the internet is very open ended and constantly changing, I enjoy film for having a defining end to the narrative.
