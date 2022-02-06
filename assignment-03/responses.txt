@@ -1,0 +1,8 @@
+1. The Domain Name System (DNS) is used by computers to connect to domains 
+by finding the IP address to connect to that location.
+
+2. A cookie is used to track information about you whenever you visit a 
+certain webiste, so if you go back to said website they can track your behavior.
+
+3. A URL contains a protocal (Http), a domain (facebook.com), paths (/home, /about), 
+and usually ends in a page or file.
