@@ -1,0 +1,20 @@
+@font-face {
+    font-family: AnekTamil-Regular;
+    src: url(fonts/AnekTamil-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: AnekTamil-Bold;
+    src: url(fonts/AnekTamil-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: AnekTamil-Light;
+    src: url(fonts/AnekTamil-Light.ttf) format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
