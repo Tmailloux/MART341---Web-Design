@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="description" content="Reservations">
+        <meta name="author" content="Trace Mailloux">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="./CSS/style.css">
+        <link type="text/css" rel="stylesheet" href="CSS/fonts.css">
+
+        <title>
+            Reservations
+        </title>
+        <style>
+            body{
+                background-image: url(./bgs/Artboard\ 4.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+        </style>
+
+    </head>
+
+    <body>
+            <nav>
+                <div class="nav">
+                    <ul id="navigation">
+
+                        <img src="images/Logo.png" alt="Logo">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="menu.html">Menu</a></li>
+                        <li><a href="reservations.html">Reservations</a></li>
+
+                    </ul>
+                </div>
+            </nav>
+
+       <div id="reservations">
+           <div class="reservations">
+
+               <h1> Make a Reservation</h1>
+
+               <form>
+                   
+                   <label for="name">Name:</label><br>
+                   <input type="text" id="name" value="Enter Name Here"><br><br>
+
+                   <label for="date">Date:</label>
+                   <input type="date" id="date" name="reservationDate"><br><br>
+
+                   <label for="time">Time:</label><br>
+                   <input type="radio" id="time" name="reservationTime" value="6pm">
+                   <label for="6pm">6 pm</label><br>
+                   <input type="radio" id="time" name="reservationTime" value="7pm">
+                   <label for="6pm">7 pm</label><br>
+                   <input type="radio" id="time" name="reservationTime" value="8pm">
+                   <label for="6pm">8 pm</label><br><br>
+
+                   <input type="submit" value="Submit">
+
+               </form>
+
+           </div>
+       </div>
+
+</html>
